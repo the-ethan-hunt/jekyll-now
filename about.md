@@ -24,4 +24,4 @@ Now there are many sides of me:
 
 ### Contact me
 
-[dhruvgirishapte@gmail.com](mailto:dhruvgirishapte@gmail.com)
+ You can mail me at [dhruvgirishapte@gmail.com](mailto:dhruvgirishapte@gmail.com)
