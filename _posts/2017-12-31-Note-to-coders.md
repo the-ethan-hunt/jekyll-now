@@ -9,14 +9,14 @@ It was really a nice time with all my mentees who were burning the midnight oil 
 does not fail and enhance its features. I faced **very very minor** issues with some of them which I
 would also bring to point later. The contributions were brilliant indeed and it might be dishonour not 
 to mention them here:
-1. [Abhimanyu Thakre](https://github.com/abhimanyuthakre)- One of the most contributing guy here. Many
+1. [Abhimanyu Thakre](https://github.com/abhimanyuthakre)- One of the most contributing guys out here. Many
    major features were made by him.
 
 2. [Kaushal Bhogale](https://github.com/kb-studios)- A little less PRs but all of them were gems. He built
-   the Linux version and prettified the UI to a classic, geeky , Mission Impossible themed one. 
+   the Linux version and prettified the UI to a classic, geeky , Mission Impossible-themed one. 
 
 3. [Snehal Reddy](https://github.com/Snehal-Reddy)- The late-comer in the party but also did great stuff.
-   He used his arts skills to devise a cool logo and then built the Mac version.
+   He used his art skills to devise a cool logo and then built the Mac version.
 
 4. [Yatish](https://github.com/Yatish04)- Made nice changes and participated a lot in discussion; maybe due 
    to some issues, he disappeared in the final phase of KWoC.
@@ -28,7 +28,7 @@ to mention them here:
    he shifted the GUI to `Tkinter` from `wx`. An achievement indeed! Not to forget he also was the group's
    bug hunter!
 
-7. [Arib Alam](https://github.com/aribalam)- The guy who was the second bug hunter of the group. Interestingly.
+7. [Arib Alam](https://github.com/aribalam)- This guy who was the second bug hunter of the group. Interestingly.
    he spotted the bugs and then fixed them himself! He surely was excited to code!
 
 8. [Prasenjit Shaw](https://github.com/jitShaw7)- For the guy who came in the party a little late, he made some 
