@@ -72,7 +72,7 @@ so that you may not repeat them in your next project:
 - **PR submission** - When submitting a PR, include a comment describing what you did to make a PR. Though, you
   might have talked about it in Slack channels, it is required for official documentation.
   
-- **Further interest** - If you want to work on the prject even after the program has ended, you can talk to the
+- **Further interest** - If you want to work on the project even after the program has ended, you can talk to the
   owner about this and explain him that the skills you possess might help to improve the project. The selection, 
   though depends on him/her.
   
