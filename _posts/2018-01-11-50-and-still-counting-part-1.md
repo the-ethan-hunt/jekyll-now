@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 50 and still counting
+title: 50 and still counting Part 1
 ---
 
 Inspired by [amrav's post](http://www.amrav.net/books-2017)
@@ -16,6 +16,8 @@ during commuting and during lecture breaks while my friends ponder where am I lo
 not finished in 3-4 weeks is a nightmare indeed. You steal time from other activities to cover 
 it and in the end, you finish gazing over a masterpiece that was much,much better than its movie 
 or series.
+
+### Revising 2017
 
 Unfortunately, I have a big problem: I don't classify my books. If you visit my disorderly [
 Goodreads shelf](https://www.goodreads.com/review/list/43528045-dhruv-apte?shelf=read), you will 
@@ -40,8 +42,7 @@ their plight and of the foreign world that was and still is, shut for them. Mark
 you hated reading about how gruesome KGB was, avoid this book. This book covers the Stasi, the AVH and the StB, to mention a few. This 
 agencies were trained by the KGB and turned out to be more gruesome and skilled than their trainers in some cases.
 
-4) [Voices from S-21: Terror and History in Pol Pot's Secret Prison](https://www.goodreads.com/book/show/185676.Voices_from_S_21?
-ac=1&from_search=true) by David Chandler- What if a country of millions is forced by its leaders to revert back to 'Year Zero' forcing 
+4) [Voices from S-21: Terror and History in Pol Pot's Secret Prison](https://www.goodreads.com/book/show/185676.Voices_from_S_21) by David Chandler- What if a country of millions is forced by its leaders to revert back to 'Year Zero' forcing 
 everyone to go back to farming and those unable to do sent to S-21? This simple 'code' stands for some unspeakable horrors David 
 Chandler uncovers in this wonderful book. This was one of those books which caused me to shut down after reading some of its pages. 
 
@@ -64,8 +65,7 @@ cannot be unravelled, no matter how hard you try.
 taken as a compilation of some jaw-dropping feats achieved by the Israeli Secret Services or the Mossad during its history. It also 
 explains the Mossad's working mechanism, probably the first book to do so. A good book, I guess. Would not recommend strongly, though
 
-9) [All the Shah's Men: An American Coup and the Roots of Middle East Terror]
-(https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) by Stephen Kinzer- This book documents how the CIA assisted MI6 in making 
+9) [All the Shah's Men: An American Coup and the Roots of Middle East Terror](https://www.goodreads.com/book/show/46347.All_the_Shah_s_Men) by Stephen Kinzer- This book documents how the CIA assisted MI6 in making 
 a rod for their own back by overthrowing the Mossadegh govt. and paving the way for Ayatollah Khomeini. This book is a good starter if 
 you want to know what caused the Iranian revolution.
 
@@ -78,9 +78,7 @@ ranging from Tehran to Moscow to Vientane. I strongly recommend this book for th
 list, I agree that the novel has been done justice by Selena Gomez when she produced its series version on Netflix. A really horrifying 
 account of bullying. I would not suggest you this book if you think you are faint-hearted or sensitive.
 
-12) [We Wish to Inform You That Tomorrow We Will Be Killed with Our Families]
-(https://www.goodreads.com/book/show/11472.We_Wish_to_Inform_You_That_Tomorrow_We_Will_Be_Killed_with_Our_Families?
-ac=1&from_search=true) by Philip Gourevitch- The book title is enough to tell what it's about- the Rwandan genocide. A really well 
+12) [We Wish to Inform You That Tomorrow We Will Be Killed with Our Families](https://www.goodreads.com/book/show/11472.We_Wish_to_Inform_You_That_Tomorrow_We_Will_Be_Killed_with_Our_Families) by Philip Gourevitch- The book title is enough to tell what it's about- the Rwandan genocide. A really well 
 researched book about the treatment of people before the Habyarimana regime and after it. And certainly more better at explaining 
 reality than Hotel Rwanda.
 
@@ -89,8 +87,7 @@ by Carol Anne Davis- Carol Ann Davis investigates psychological and sociological
 fate as decided by the law. This book, I must say it will never be even proposed to anyone to read. Apart from the psychology, the book 
 is sickening.
 
-14) [Dear Leader: Poet, Spy, Escapee—A Look Inside North Korea](https://www.goodreads.com/book/show/20736640-dear-leader?
-ac=1&from_search=true) by Jang Jin-sung- Another one from North Korea; this one is different in the sense that the author who is also a 
+14) [Dear Leader: Poet, Spy, Escapee—A Look Inside North Korea](https://www.goodreads.com/book/show/20736640-dear-leader) by Jang Jin-sung- Another one from North Korea; this one is different in the sense that the author who is also a 
 defector was considered very close to the dead leader of the nation and explains how the son usurped power from his father. not to 
 mention his escapes as he narrowly avoided getting caught more than thrice. I liked the book due to the details being intriguing. This 
 was something unheard of in the outside world previously.
