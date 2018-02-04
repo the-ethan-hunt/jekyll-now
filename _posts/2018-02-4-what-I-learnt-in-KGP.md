@@ -18,9 +18,9 @@ time. In fact, some did not mention about this at all. Their friends informed me
 2. **Never stop. Keep learning, keep doing something** - I asked my close friend a simple question: you have cracked one of the world's 
 toughest exam to get here, you have cracked the prestigious Google Summer of Code; why are you running again?
 
-He replied in a simple way: "That cracking was achievement that time. GSoC was an achievement last year. What about this year? What 
-about now? Don't let yourself be stagnated by stuff you acheived in the past. Set yourself a high bar! Keep working! don't just sit!". I 
-have to admit that this is one of the most inspiring things I have heard in my life.
+    He replied in a simple way: "That cracking was achievement that time. GSoC was an achievement last year. What about this year? What 
+    about now? Don't let yourself be stagnated by stuff you acheived in the past. Set yourself a high bar! Keep working! don't just         sit!". I 
+    have to admit that this is one of the most inspiring things I have heard in my life.
 
 3. **Considerate and politeness** - When I met people at the summmit, some of them asked about my journey, whether it was comfortable or 
 not. They showed a real interest in what I wanted to say. Even after departing a friend messaged me telling that he and others had a fun 
