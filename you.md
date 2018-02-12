@@ -1,7 +1,7 @@
 ---
 layout: page
-title: For you
-permalink: /foryou/
+title: you
+permalink: /you/
 ---
 
 Just check it out!
