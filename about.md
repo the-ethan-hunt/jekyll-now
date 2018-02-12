@@ -6,6 +6,7 @@ permalink: /about/
 
 ### Who am I?
 
+![](the-ethan-hunt.github.io/images/dp.png)
 My name is Dhruv Apte and I am a third year undergraduate majoring in mechanical engineering.
 Now there are many sides of me:
 - The 'mechie' me is a guy who tries to incorporate computer science in mechanical engineering.
