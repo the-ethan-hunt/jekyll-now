@@ -16,7 +16,7 @@ This is pretty, but not beautiful
 
 > Beautiful - There is a lot of jibber-jabber in the dictionary. But in one word, it is **you**
 
-<img src= "images/IMG-20171019-WA0008.jpg" width= "300" align="center">
+<img src= "/images/IMG-20171019-WA0008.jpg" width= "300" align="center">
 
 Factually, this is our second Valentine's. Romantically, the first.
 
@@ -28,7 +28,7 @@ But there are a lot of things I have gifted you during our beautiful relationshi
 - A shell script to post our quotes
 - This:
 
-<img src="images/figure_1.png" width="275">
+<img src="/images/figure_1.png" width="275">
 
 That image seems a little small. Anyways, you know what it means for me.
 this time, we also have something more: scroll down as you read!
