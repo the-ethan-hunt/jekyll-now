@@ -10,7 +10,7 @@ Pretty - Attractive without truly being beautiful
 
 For example -
 
-<img src= "/images/warrier.jpg" width= "250" align="center">
+<img src= "https://github.com/the-ethan-hunt/the-ethan-hunt.github.io/images/warrier.jpg" width= "250" align="center">
 
 This is pretty, but not beautiful
 
