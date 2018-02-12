@@ -10,9 +10,8 @@ Pretty - Attractive without truly being beautiful
 
 For example -
 
-<img src= "images/warrier.jpg" width= "250" align="center">
+<img src= "/images/warrier.jpg" width= "250" align="center">
 
-![alt text](the-ethan-hunt.github.io/images/warrier.jpg)
 This is pretty, but not beautiful
 
 > Beautiful - There is a lot of jibber-jabber in the dictionary. But in one word, it is **you**
