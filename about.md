@@ -6,8 +6,6 @@ permalink: /about/
 
 ### Who am I?
 
-<img src= "images/pic_at_kgp(1).jpg">
-
 My name is Dhruv Apte and I am a third year undergraduate majoring in mechanical engineering.
 Now there are many sides of me:
 - The 'mechie' me is a guy who tries to incorporate computer science in mechanical engineering.
