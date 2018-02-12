@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: For you
+permalink: /foryou/
 ---
 
 Just check it out!
