@@ -51,5 +51,6 @@ generated data until the GAN will slowly converge to producing realistic data; a
 GANs are getting hot for image generation using convolutional neural networks. A [DCGAN](http://arxiv.org/abs/1511.06434) or a deep convolutional
 generative adversarial network is one great GAN used for image generation. You can read the paper in the link to know more about them. 
 
-I hope you like this post and that this post would quell you to learn more about GANs or about deep learning itself!
+I hope you like this post and that this post would quell you to learn more about GANs or about deep learning itself! You can tell me
+about this post at twitter mentioning me by my handle @apte_dhruv or drop me a mail at dhruvgirishapte@gmail[dot]com
 
