@@ -19,7 +19,6 @@ Now there are many sides of me:
 - The 'watcher' me loves to watch movies(specific genres: horror and political drama) and
   series. He clashes a lot with the 'developer' me and the 'mechie' me and he hates to 
   binge-watch.
-- The 'romantic' me loves old-time romance mixed with surprise gifts. He often tries to impress his girlfriend sometimes, even getting      successful too! But he loves her a lot!
 - The 'chatter' me who is currently writing this page loves to talk about some topics;
   but some, not all.
 
