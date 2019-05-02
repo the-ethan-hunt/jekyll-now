@@ -4,24 +4,22 @@ title: About
 permalink: /about/
 ---
 
-### Who am I?
 
-My name is Dhruv Apte and I am a third year undergraduate majoring in mechanical engineering.
-Now there are many sides of me:
-- The 'mechie' me is a guy who tries to incorporate computer science in mechanical engineering.
-  He particularly loves watching production processes work, the math behind thermodynamics and 
-  computing analysis in designing machine elements. He also likes studying the stuff
-- The 'developer' me spends his time on GitHub instead of the trending Instagram or Snapchat,
-  finding projects worth contributing or sometimes spearheading his own.
-- The 'data scientist' me tries to learn and compete simultaneously; he is good at machine 
-  learning, average at data visualisation and natural language processing and poor in deep
-  learning. But he tries to learn something everyday
-- The 'watcher' me loves to watch movies(specific genres: horror and political drama) and
-  series. He clashes a lot with the 'developer' me and the 'mechie' me and he hates to 
-  binge-watch.
-- The 'chatter' me who is currently writing this page loves to talk about some topics;
-  but some, not all.
+Hello! My name is Dhruv Apte and I am MechE undergraduate who teaches CompSci and trying to work in AeroAstro in graduate school.
 
-### Contact me
+I am working to implement hybrid RANS/LES measures in computational fluid dynamics which have lesser computing time and a higher order
+of accuracy. I also conduct machine learning lectures, workshops and tutorials for undergraduates to get a notion of one of the most hyped
+words of this century.
 
- You can mail me at [dhruvgirishapte@gmail.com](mailto:dhruvgirishapte@gmail.com)
+I am a huge fan of [Dr. Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (spelled as FINE-man) and his quotes and principles guide me, my beliefs and my enthusiasm to study.
+Otherwise, I spend my time reading non-fiction books and watching TV shows; *The Mentalist*,*The Big Bang Theory* and *Riverdale* being my top favourites. I don't watch *Game of Thrones* or *Friends*, either; please don't convince me to watch them. 
+
+I blog not often, the reason being  procastination but I am active on email. I generally reply within 48 hours.
+
+
+
+
+
+
+
+You can mail me at [dhruvgirishapte@gmail.com](mailto:dhruvgirishapte@gmail.com)
